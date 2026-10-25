@@ -2,6 +2,9 @@
   "name": "weather-app",
   "version": "1.0.0",
   "private": true,
+
+  "description": "A simple beginner Weather App built with Next.js",
+
   "scripts": {
     "dev": "next dev"
   },
